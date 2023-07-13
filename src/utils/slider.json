@@ -1,38 +1,38 @@
 [
   {
-    "name": "Aliva Priva Jardin",
-    "price": "47,043",
-    "detail": "Jakarta Garden City Street, Cakung. Pulo Gadung, Jakarta Timur, DKI Jakarta",
+    "name": "Modern Elegance",
+    "price": "57,245",
+    "detail": "Embrace sleek lines, minimalist aesthetics, and a blend of natural materials to create a contemporary and sophisticated space. Incorporate clean designs, open floor plans, and neutral color palettes for a timeless and elegant remodel.",
     "image": "./r1.png"
   },
   {
-    "name": "Asatti Garden City",
+    "name": "Rustic Charm",
     "price": "66,353",
-    "detail": "Pahlawan Street XVII No.215, Cinangka, Sawangan, Depok, Jawa Barat",
+    "detail": "Infuse warmth and character into your space with a rustic remodeling style. Utilize reclaimed wood, stone accents, and earthy color schemes to create a cozy and inviting atmosphere.",
     "image": "./r2.png"
   },
   {
-    "name": "Citralan Puri Serang",
-    "price": "35,853",
-    "detail": "Ruko Puri Indah Residence Block A7, Lingkar Street, Ciracas, Serang, Banten",
+    "name": "Industrial Chic",
+    "price": "45,853",
+    "detail": "Embrace an urban and edgy look with an industrial remodeling style. Incorporate raw materials like concrete, metal, and exposed brick to create a modern, loft-inspired space. ",
     "image": "./r3.png"
   },
   {
-    "name": "Aliva Priva Jardin",
-    "price": "47,043",
-    "detail": "Jakarta Garden City Street, Cakung. Pulo Gadung, Jakarta Timur, DKI Jakarta",
+    "name": "Coastal Retreat",
+    "price": "67,043",
+    "detail": "Create a serene and beach-inspired atmosphere with a coastal remodeling style. Utilize light colors, natural textures, and oceanic accents to evoke a sense of relaxation and tranquility.",
     "image": "./r1.png"
   },
   {
-    "name": "Asatti Garden City",
+    "name": "Farmhouse Chic",
     "price": "66,353",
-    "detail": "Pahlawan Street XVII No.215, Cinangka, Sawangan, Depok, Jawa Barat",
+    "detail": " Embrace a blend of rustic charm and modern comfort with a farmhouse remodeling style. Incorporate elements such as shiplap walls, farmhouse sinks, and barn doors for a cozy and nostalgic feel.",
     "image": "./r2.png"
   },
   {
-    "name": "Citralan Puri Serang",
+    "name": "Scandinavian Simplicity",
     "price": "35,853",
-    "detail": "Ruko Puri Indah Residence Block A7, Lingkar Street, Ciracas, Serang, Banten",
+    "detail": "Embrace simplicity, functionality, and natural light with a Scandinavian remodeling style. Utilize light colors, clean lines, and minimalistic designs to create a bright and airy space.",
     "image": "./r3.png"
   }
 ]
